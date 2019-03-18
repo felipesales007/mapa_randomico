@@ -6,7 +6,7 @@
 
 Mapa que gera localização aleatória em um determinado território ao clicar em um botão.
 
-Conheça [API Google Maps](https://cloud.google.com/maps-platform/?hl=pt-br).
+Conheça a [API Google Maps](https://cloud.google.com/maps-platform/?hl=pt-br).
 
 ## Versão disponível
 
@@ -16,7 +16,7 @@ Conheça [API Google Maps](https://cloud.google.com/maps-platform/?hl=pt-br).
 | --- | --- |
 | <img src="https://uploaddeimagens.com.br/images/001/967/450/original/3.png" width="450" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/967/452/original/4.png" width="450" height="250" />
 
-## DocumentaÁ„o
+## Documentação
 A documentação do Google Maps está disponível em [website](https://cloud.google.com/maps-platform/?hl=pt-br).
 
 ## Suporte nos navegadores
