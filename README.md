@@ -10,13 +10,14 @@ Conheça a [API Google Maps](https://cloud.google.com/maps-platform/?hl=pt-br).
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="90" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
 
 | INSERÇÃO | RESPONSIVO |
 | --- | --- |
 | <img src="https://uploaddeimagens.com.br/images/001/967/450/original/3.png" width="450" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/967/452/original/4.png" width="450" height="250" />
 
 ## Documentação
+
 A documentação do Google Maps está disponível em [website](https://cloud.google.com/maps-platform/?hl=pt-br).
 
 ## Suporte nos navegadores
